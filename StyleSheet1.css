@@ -4,16 +4,14 @@
     text-align: center;
     
 }
-li
-{
-    float:left;
-    padding: 10px;
-}
 h1
 {
     background-color:black;
     color: white;   
 }
-ul{
+p{
     float: left;
+}
+li{
+    float: right;
 }
